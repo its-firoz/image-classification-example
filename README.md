@@ -1,7 +1,8 @@
 # image-classification-example
 
-This is a simple image classification example for 10 types of Fruits as listed below,  that uses Google's Machine Learning library Tensorflow, Keras as Frontend and a pre-trained Deep Learning Convolutional Neural Network model called Inception.
+This is a simple image classification example for 10 types of Fruits as listed below,  that uses Google's Machine Learning library Tensorflow, Keras as Frontend and a pre-trained Deep Learning Convolutional Neural Network(CNN) model called Inception.
 
+Fruit Classes:
 1. Apple
 2. Banana
 3. Orange
@@ -13,10 +14,9 @@ This is a simple image classification example for 10 types of Fruits as listed b
 9. Pomegranate
 10. Pineapple
 
-# Step-1 : Dataset Collection and Preparation
+# Step-1 : Dataset(Images) Collection and Preparation
 
-For better Deep Learning based model we need large amount of data for  above fruit classes. For this we have to manually create the images or download from the internet.
-i have downloaded from kaggle https://www.kaggle.com/moltean/fruits and selected the above 10 class images from it.
+For better accuracy in Deep Learning based model we need large amount of data for training. For this we have to manually create the images of above classes or download from the internet. I have downloaded from kaggle https://www.kaggle.com/moltean/fruits and selected the above 10 class images from it.
 
 
 # Step-2 : Model Selection 

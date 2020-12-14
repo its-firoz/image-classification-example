@@ -12,3 +12,6 @@ This is a simple image classification example for 10 types of Fruits as listed b
 8. Mango
 9. Pomegranate
 10. Pineapple
+
+This model has been pre-trained for the 1,000 different classes of images from ImageNet Datasets. The program applies Transfer Learning to this existing model and re-trains it to classify above set of images for Fruits.
+
